@@ -1,0 +1,4 @@
+interface:
+  display_name: "CodeBuddy Subagent"
+  short_description: "Delegate bounded work to CodeBuddy CLI."
+  default_prompt: "Use CodeBuddy CLI as a bounded non-interactive subagent for this task."
